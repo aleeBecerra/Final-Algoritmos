@@ -1,0 +1,2 @@
+C:\Users\User\Downloads\TFAlgoritmos2 (2)\TFAlgoritmos2\TFAlgoritmos\x64\Debug\TFAlgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\User\Downloads\TFAlgoritmos2 (2)\TFAlgoritmos2\TFAlgoritmos\x64\Debug\TFAlgoritmos.exe

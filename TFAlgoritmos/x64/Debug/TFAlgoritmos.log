@@ -1,0 +1,27 @@
+﻿  TFAlgoritmos.cpp
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\Header.h(44,48): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\TFAlgoritmos.cpp(117,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\TFAlgoritmos.cpp(126,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\TFAlgoritmos.cpp(127,13): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\TFAlgoritmos.cpp(423,13): warning C4101: 'currentTicket': variable local sin referencia
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\TFAlgoritmos.cpp(421,10): warning C4101: 'ticketF': variable local sin referencia
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\TFAlgoritmos.cpp(648,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\TFAlgoritmos.cpp(830,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/TFAlgoritmos.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TFAlgoritmos.vcxproj -> C:\Users\HP SUPPORT\Downloads\TFAlgoritmos2\TFAlgoritmos\x64\Debug\TFAlgoritmos.exe

@@ -1,0 +1,10 @@
+john_doe,johndoe@example.com,pass1234,AB1234567,auto
+jane_smith,janesmith@example.com,password5678,CD2345678,auto
+alice_jones,alicejones@example.com,alicepass9012,EF3456789,camion
+bob_brown,bobbrown@example.com,bobsecurepass,GJ4567890,camion
+charlie_davis,charliedavis@example.com,charliepass123,HI5678901,moto
+emily_wilson,emilywilson@example.com,emilypass789,JK6789012,moto
+frank_clark,frankclark@example.com,frankpass456,LM7890123,auto
+grace_hall,gracehall@example.com,gracepassword,NO8901234,auto
+henry_turner,henryturner@example.com,henrypass1234,PQ9012345,camion
+isabella_scott,isabellascott@example.com,isabellapass789,RS0123456,moto
